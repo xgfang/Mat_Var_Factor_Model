@@ -1,4 +1,4 @@
-# Mat_Var_Factor_Model
+# Matrix Variate Factor Model
 Code for Statistical Inference for High Dimensional Matrix Variate Factor Model (Chen &amp; Fan, 2021, JASA) in R
 
 data_generation.R for data generation in the simulation
